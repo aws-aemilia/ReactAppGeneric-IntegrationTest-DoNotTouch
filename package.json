@@ -37,6 +37,7 @@
   },
   "resolutions": {
     "expect": "^29.5.0",
-    "pretty-format": "^29.5.0"
+    "pretty-format": "^29.5.0",
+    "postcss-load-config": "^4.0.2"
   }
 }
